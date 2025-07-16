@@ -1,1 +1,2 @@
 openpowerlifting.csv filter=lfs diff=lfs merge=lfs -text
+datos_entreno.csv filter=LFS diff=lfs merge=lfs -text
